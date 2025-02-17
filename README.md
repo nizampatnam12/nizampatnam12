@@ -6,4 +6,4 @@
 - 🤔 I’m looking for help with AI
 - 💬 Ask me about, I am Full Stack Developer, CS graduate intrested in tech stuff, hiking, attending meetups, making friends.
 - 😄 Pronouns: Vamsee
-- ⚡ Fun fact: I worked as a contractor for IBM for about 5 years 7 months.
+- ⚡ Fun fact: I like Peanut Butter Ice Cream
