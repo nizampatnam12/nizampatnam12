@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on AI (DeepSeek-R1, meta-llama/Llama-3.3-70B-Instruct/OpenAI) running on Mac, Raspberry pi 5. 
+- 🔭 I’m currently working on full-stack development and AI projects (DeepSeek-R1, Meta-Llama, Llama-3.3-70B-Instruct, OpenAI) running on Mac and Raspberry Pi 5.
 - 🌱 I’m currently learning AI, Cloud and Devops
 - 👯 I’m looking to collaborate on UI, UX, VR
 - 🤔 I’m looking for help with AI
